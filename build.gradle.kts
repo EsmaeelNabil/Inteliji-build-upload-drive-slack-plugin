@@ -20,7 +20,7 @@ dependencies {
     implementation(kotlin("stdlib"))
     implementation("org.jetbrains.compose.material:material:")
     implementation(compose.desktop.currentOs)
-    testCompile("junit", "junit", "4.12")
+    testCompile("junit", "junit", "4.13.2")
 }
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
