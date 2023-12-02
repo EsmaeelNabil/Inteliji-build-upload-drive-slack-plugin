@@ -1,7 +1,7 @@
 import org.jetbrains.compose.compose
 
 plugins {
-    id("org.jetbrains.intellij") version "0.6.5"
+    id("org.jetbrains.intellij") version "1.16.1"
     java
     kotlin("jvm") version "1.5.10"
     // __LATEST_COMPOSE_RELEASE_VERSION__
